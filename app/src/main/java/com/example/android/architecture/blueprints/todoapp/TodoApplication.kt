@@ -21,6 +21,13 @@ import timber.log.Timber
 import timber.log.Timber.DebugTree
 
 /**
+ * Name: Võ Anh Khoa
+ * ID: 21110046
+ * Class: 02FIE - Tuesday Afternoon
+ * Date: 1/4/2025
+ * Assignment 5: Testing Basic
+ */
+/**
  * An application that lazily provides a repository. Note that this Service Locator pattern is
  * used to simplify the sample. Consider a Dependency Injection framework.
  *
